@@ -102,7 +102,7 @@ streamlit run app.py
 │── api_calling.py
 │── requirements.txt
 │── demo.png
-│── demo.gif
+│── demo2.gif
 │── LICENSE
 │── README.md
 
