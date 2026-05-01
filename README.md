@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="demo.gif" alt="App Demo" width="100%">
+  <img src="demo2.gif" alt="App Demo" width="100%">
 </p>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-red)](https://my-first-gemini-api-project.streamlit.app/)
