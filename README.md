@@ -5,7 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-red)](https://my-first-gemini-api-project.streamlit.app/)
 
-# 🚀 Note Summary & Quiz Generator (AI Powered)
+# 🤖 Note Summary & Quiz Generator (AI Powered)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
